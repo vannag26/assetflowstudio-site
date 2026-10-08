@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://assetflowstudio.com/sitemap.xml
