@@ -1,7 +1,7 @@
-# Asset Flow Studio
+# assetflowstudio.com
 
-Coming-soon page for https://assetflowstudio.com/ (static, GitHub Pages, no build step).
+Placeholder page for https://assetflowstudio.com/ (static, GitHub Pages, no build step). Rebuilt Oct 11, 2026.
 
-## Image credit
-
-Hero photo: "long exposure shot Seljalandsfoss waterfall" via rawpixel, CC0 (public domain dedication). Source: https://www.rawpixel.com/image/3288614/free-photo-image-blur-background-cc0-cliff
+- `brand/`: Asset Flow Studio logo system. `assetflowstudio-seal-*` (badge with name), `assetflowstudio-emblem-*` (badge only), `assetflowstudio-logo-*` (horizontal lockup). SVG (text converted to outlines) plus PNG (seal and emblem 4096 px, lockup 5120 px wide). `-dark` is for dark backgrounds, `-light` for light backgrounds.
+- `img/hero-3840.*`: hero photograph by Naira Babayan on Unsplash (https://unsplash.com/photos/water-falls-on-rocky-shore-during-daytime-ACwstNBeVjE), downsampled from the 4592x3056 original (never upscaled). Unsplash License.
+- Contact: hello@vdgmanagement.com
